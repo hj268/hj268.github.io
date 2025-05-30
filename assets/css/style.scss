@@ -1,4 +1,8 @@
-@import "{{ site.theme }}";
+---
+---
+
+
+@import "jekyll-theme-minimal";
 
 /* Additional protection and styling */
 img {
@@ -13,13 +17,13 @@ img {
   -khtml-user-drag: none;
   -moz-user-drag: none;
   -o-user-drag: none;
-  user-drag: none;
 }
 
-/* Hide profile image on mobile devices */
+/* Hide site logo on mobile devices */
 @media (max-width: 768px) {
-  img[src*="profile"], img[alt*="Hina Jajoo"] {
-    display: none;
+  img[alt="Logo"],
+  img[src*="logo"] {
+    display: none !important;
   }
 }
 
