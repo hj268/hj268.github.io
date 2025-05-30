@@ -4,7 +4,7 @@ layout: default
 
 <h1 class="center-title">👋 Hi, I'm Hina Jajoo</h1>
 <p class="profile-intro">
-  I'm a senior engineer with 12+ years of experience building Backend and AI Infrastructure. Most recently, I’ve been building systems to optimize foundation model training and inference at Meta AI. 
+  I'm a Seasoned Software Engineer with 12+ years of experience building Backend and AI Infrastructure. Most recently, I’ve been building systems to optimize foundation model training and inference at Meta AI. 
 </p>
 <p class="profile-intro">
   I'm now looking to join a mission-driven AI startup where I can move fast, solve hard infra problems, and help scale real-world impact.
