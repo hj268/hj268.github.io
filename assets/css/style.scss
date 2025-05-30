@@ -16,6 +16,13 @@ img {
   user-drag: none;
 }
 
+/* Hide profile image on mobile devices */
+@media (max-width: 768px) {
+  img[src*="profile"], img[alt*="Hina Jajoo"] {
+    display: none;
+  }
+}
+
 /* Disable text selection for the entire page on mobile */
 body {
   -webkit-touch-callout: none;
