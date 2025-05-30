@@ -6,14 +6,14 @@ permalink: /about.html
 
 <h1>👩‍💻 My Journey</h1>
 
-<p>My love for coding started from my love for reading. I've always loved reading science fiction and fantasy with good world building - that got me hooked on complex systems early on. So, when I first encountered coding at the age of 14, it felt just as magical - you take a machine that can understand only 0s and 1s and use it to build such useful systems. I still feel that fascination when I immerse myself in a complex domain and do the world building in my mind!</p>
+<p><strong>My love for coding started with my love for reading.</strong> I’ve always been drawn to science fiction and fantasy—stories with rich world-building and complex systems. When I wrote my first program at age 14, it felt just as magical: turning a machine that understands only 0s and 1s into something alive and useful. That feeling still drives me today, especially when diving into a complex domain and mentally mapping out the systems behind it.</p>
 
-<p>I studied Computer Science in India and began my career at Cisco in Bangalore, where I spent five years working on the operating system powering Internet Backbone routers — high-performance, low-level systems in C and C++. That’s where I learned to think in data structures and build with precision.</p>
+<p>I studied Computer Science in India and began my career at <strong>Cisco Systems</strong> in Bangalore. I spent five years working on the OS for internet backbone routers, <em>high-performance, low-level systems built in C and C++</em>. That’s where I learned to think in data structures, build for performance, and develop systems with precision.</p>
 
-<p>I moved to the US in 2018 - to New York City. I joined Bloomberg at a time when they were modernising their systems from C++ and bare metal, to Python and their private cloud. I worked there for 2 years and built a solid understanding of microservices.</p>
+<p>In 2018, I moved to New York City and joined <strong>Bloomberg</strong> as they were modernizing their infrastructure. I spent two years helping transition from bare-metal C++ systems to cloud-native services in Python, and deepened my understanding of distributed systems and microservices.</p>
 
-<p>Next came four impactful years at Lyft, where I grew from owning a small Places service to leading much of the mapping stack (excluding navigation). I built systems that optimized real-world pickups and routing, delivering better rider experiences at scale.</p>
+<p>After that, I joined <strong>Lyft</strong>, where I spent four years working on the Mapping team. I started by owning a small service called Places, and eventually led most of the mapping stack (excluding navigation). I built systems that optimized pickup and dropoff locations, improved real-world routing, and delivered better rider and driver experiences at scale.</p>
 
-<p>In 2023, as foundation models began transforming the landscape, I joined Meta’s AI Infrastructure team to dive deep into the world of AI systems. I built tools to optimize GPU memory usage, reduce training failures, and improve inference throughput for models like Llama3.</p>
+<p>In 2023, as foundation models began reshaping the AI landscape, I joined <strong>Meta’s AI Infrastructure</strong> team to focus on performance and efficiency of large-scale training and inference systems. That experience helped me deeply understand the systems behind modern AI, and how to make them faster, cheaper, and more reliable.</p>
 
-<p>Now, I’m ready for my next chapter: joining a mission-driven AI startup where I can move fast, solve hard problems, and keep building magical, world-changing systems.</p>
+<p><strong>Now, I’m ready for the next chapter:</strong> joining a mission-driven AI startup where I can move fast, solve hard infrastructure problems, and keep building systems that feel just a little bit magical.</p>
