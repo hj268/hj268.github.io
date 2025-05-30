@@ -15,9 +15,3 @@ bundle exec jekyll serve
 
 # Open http://localhost:4000 in your browser
 ```
-
-## 📁 Required Files
-
-Add these files to the `assets/` directory:
-- `profile.jpeg` - Your profile photo
-- `Hina_Jajoo_Resume.pdf` - Your resume

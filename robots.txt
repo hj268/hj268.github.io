@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /*.pdf
+Disallow: /*.jpg
+Disallow: /*.jpeg
+Disallow: /*.png
+
+# Allow access to main pages
+Allow: /
+Allow: /index.html 
