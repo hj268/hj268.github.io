@@ -1,6 +1,5 @@
 title: Hina Jajoo
 description: Senior Engineer with 12+ years of experience building scalable Backend and AI Infrastructure
-logo: assets/profile.jpeg
 author: Hina Jajoo
 email: jajoo.hina03@gmail.com
 
@@ -17,8 +16,8 @@ linkedin_username: hinajajoo
 # Navigation
 show_downloads: false
 
-# Google Analytics (optional - uncomment and add your tracking ID if needed)
-# google_analytics: G-XXXXXXXXXX
+# Google Analytics
+google_analytics: G-Q4L92T8GH8
 
 # Markdown settings
 markdown: kramdown

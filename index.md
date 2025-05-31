@@ -23,8 +23,6 @@ layout: default
 
 ---
 
-**[📄 Download Resume](assets/Hina_Jajoo_Resume.pdf)**
-
 **[💼 LinkedIn](https://linkedin.com/in/hinajajoo)** 
 
 **[📧 jajoo.hina03@gmail.com](mailto:jajoo.hina03@gmail.com)**
