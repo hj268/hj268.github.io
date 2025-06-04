@@ -13,7 +13,7 @@ layout: default
 <h2>🧠 Recent AI Infra Work at Meta</h2>
 <ul>
   <li><strong>Training Optimization:</strong> Boosted QPS by 50%+ across hundreds of internal training pipelines through data-driven experiments and infra tuning automation.</li>
-  <li><strong>Inference Optimization Tooling for Llama3:</strong> Built and deployed inference profiling and optimization tools that cut latency and cost to under $1 per million tokens.</li>
+  <li><strong>Inference Optimization Tooling:</strong> Built and deployed inference profiling and optimization tools for LLM Inference that cut latency and cost to under $1 per million tokens.</li>
   <li><strong>GPU Memory Efficiency:</strong> Developed GPU memory insight tooling that helped ML engineers reduce training OOM failure rates by 2% at scale.</li>
 </ul>
 
